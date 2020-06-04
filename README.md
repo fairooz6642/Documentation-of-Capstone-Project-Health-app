@@ -1,0 +1,2 @@
+# Documentation-of-Capstone-Project-Health-app
+In my undergraduate capstone showcase, me and my team worked on a cheap health monitoring device with the use of an arduino uno and several sensors to take external outputs and give readings of ECG, pulse rate any possible presence of bone fracture. The whole project was also integrated into an app which was passed on forward for future teams to continue their work on. Some of the documentation of the project is presented here.
